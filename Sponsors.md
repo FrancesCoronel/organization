@@ -11,3 +11,6 @@
 - Microsoft
 - Pluralsight
 - WintellectNow
+- Jetbrains
+- Cerebrata
+- Apress
