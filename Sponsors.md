@@ -19,3 +19,4 @@
 - Adobe
 - Heroku
 - CustomInk
+- JetBrains
