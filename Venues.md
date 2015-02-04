@@ -18,3 +18,5 @@ Dominion Enterprises (Norfolk, Free)
 
 757 Creative Space (Norfolk, Free)
 
+Slover Library (Norfolk)
+> Great space equiped for all sorts of AV. Talk to Katie Elder. katie.elder (at) norfolk.gov
