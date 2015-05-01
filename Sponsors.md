@@ -1,6 +1,9 @@
 # Sponsors to Reach Out To
 
+---
+
 ## Local
+
 - xTuple
 - Dominion Enterprises
 - InMotion Hosting
@@ -9,7 +12,10 @@
 - Code for Hampton Roads
 - ThreatSim 
 
+---
+
 ## National
+
 - GitHub
 - Amazon
 - Microsoft

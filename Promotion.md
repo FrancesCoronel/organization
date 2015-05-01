@@ -6,18 +6,18 @@
 
 ## Overview
 
-- [Badges/Lanyards](#section-badges)
-- [Conference Guides](#section-guides)
-- [Email Marketing](#section-email)
-- [Event Digests](#section-digests)
-- [Logos](#section-logos)
-- [Presentatons](#section-presentations)
-- [Social Media](#section-social)
-- [Team Collaboration](#section-team)
+- [Badges and Lanyards](#badges-and-lanyards)
+- [Conference Guides](#conference-guides)
+- [Email Marketing](#email-marketing)
+- [Event Digests](#event-digests)
+- [Logos](#logos)
+- [Presentatons](#presentations)
+- [Social Media](#social-media)
+- [Team Collaboration](#team-collaboration)
 
 ---
 
-## Badges/Lanyards [section-badges]
+## Badges and Lanyards
 
 > Might not be necessary, but there should be some way to verify registration/attendance for data.
 
@@ -25,7 +25,7 @@
 
 ---
 
-## Conference Guides [section-guides]
+## Conference Guides
 
 - [Guidebook](https://guidebook.com/)
 > For 200 or less people, it's free!
@@ -33,7 +33,7 @@
 
 ---
 
-## Email Marketing [section-email]
+## Email Marketing
 
 > Sign up for the emailing list at [`757devcon.com`](http://757devcon.com)!
 
@@ -51,7 +51,7 @@
 
 ---
 
-## Logos [section-logos]
+## Logos
 
 - the Terminal themed hammer already in place ![](https://pbs.twimg.com/profile_images/436701241104547840/6hlTA2hC_400x400.png)
 - *Suggestions* ([FVCproductions](http://github.com/fvcproductions))
@@ -61,7 +61,7 @@
 
 ---
 
-## Presentations [section-presentations]
+## Presentations
 
 - [Google Slides](http://slides.google.com)
 > For collaborating on presentations.
@@ -70,7 +70,7 @@
 
 ---
 
-## Social Media [section-social]
+## Social Media
 
 1. Main Website - [`757devcon.com`](http://757devcon.com)
 2. Twitter - [`twitter.com/757devcon`](https://twitter.com/757devcon)
@@ -78,7 +78,7 @@
 
 ---
 
-## Team Collaboration [section-team]
+## Team Collaboration
 
 - Slack at [`757dev.slack.com`](https://757dev.slack.com/)
 - GitHub at [`github.com/757DevCon/Organization`](https://github.com/757DevCon/Organization)

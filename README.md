@@ -1,15 +1,15 @@
-Organization
-============
+# Organization
+
 
 > Keeping track of todo's.
 
 ---
 
-We believe that the 757 has great developers. It is time it had a great developer conference too.
-
-It's time to unite for a day of developer camaraderie‎.
-
-Will you join us?
+> We believe that the 757 has great developers. It is time it had a great developer conference too.
+> 
+> It's time to unite for a day of developer camaraderie‎.
+> 
+> Will you join us?
 
 ---
 
